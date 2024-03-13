@@ -1,5 +1,5 @@
 {
-  "name": "omaximus/laravel-pivot-polymorph",
+  "name": "artemalexeev/laravel-pivot-polymorph",
   "description": "Fully polymorphic pivot relations for laravel eloquent",
   "keywords": ["laravel", "relations", "polymorphic"],
   "require": {
